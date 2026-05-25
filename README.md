@@ -1,11 +1,6 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
-
 ## Procedure :
-
 ![imAGE](2.png)
-
-## Experiment:
-
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
