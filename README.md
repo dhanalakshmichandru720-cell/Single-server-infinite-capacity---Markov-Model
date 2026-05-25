@@ -1,6 +1,9 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
+
 ## Procedure :
+
 ![imAGE](2.png)
+
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -29,6 +32,7 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
+
 <img width="769" height="344" alt="Screenshot 2026-05-24 211545" src="https://github.com/user-attachments/assets/06e80ed3-9275-4cca-b8e6-3dcac789391f" />
 
 ## Result :
