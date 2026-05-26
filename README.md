@@ -34,5 +34,5 @@ print("---------------------------------------------------------------")
 
 <img width="769" height="344" alt="Screenshot 2026-05-24 211545" src="https://github.com/user-attachments/assets/06e80ed3-9275-4cca-b8e6-3dcac789391f" />
 
-## Result :
+
 
